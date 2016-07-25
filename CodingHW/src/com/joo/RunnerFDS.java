@@ -2,8 +2,8 @@ package com.joo;
 
 import com.joo.data.AgentSomeDB;
 import com.joo.data.MemoryPot;
-import com.joo.models.ModelA;
 import com.joo.models.Model;
+import com.joo.models.ModelA;
 import com.joo.models.ModelB;
 
 import java.util.HashMap;
